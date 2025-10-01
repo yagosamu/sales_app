@@ -1,6 +1,6 @@
 <!-- Cover image (replace when assets/cover.png is added) -->
 <p align="center">
-	<img src="assets/cover.svg" alt="Sales Analyzer cover" width="100%" />
+	<img src="assets/dashboard.png" alt="Sales Analyzer cover" width="100%" />
 </p>
 
 # Sales Analyzer — Turn raw data into decisions
